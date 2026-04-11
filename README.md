@@ -42,3 +42,5 @@ If you ever want to remove the program, **Right-click -> Run with PowerShell** o
 Thanks for visiting this repo! I'm still learning:)
 
 I'm a student, if you want to help me in study then I think you know what to do, UPI: architm193@okicici
+IG: its_avm
+Reddit: its_avm_05
